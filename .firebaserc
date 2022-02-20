@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "canteen-dfadd": {
+      "hosting": {
+        "canteen": [
+          "canteen-dfadd"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "canteen-dfadd"
+  }
+}
